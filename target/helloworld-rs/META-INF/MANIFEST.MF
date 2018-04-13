@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Implementation-Title: Quickstart: helloworld-rs
+Implementation-Version: 13.0.0-SNAPSHOT
+Java-Version: 1.8.0_152-release
+Built-By: GrinWey
+Scm-Connection: scm:git:https://github.com/wildfly/boms.git/quickstart
+ /helloworld-rs
+Os-Arch: amd64
+Specification-Title: Quickstart: helloworld-rs
+Implementation-Vendor-Id: org.wildfly.quickstarts
+Java-Vendor: JetBrains s.r.o
+Os-Name: Windows 7
+Scm-Url: http://github.com/wildfly/boms/quickstart/helloworld-rs
+Os-Version: 6.1
+Scm-Revision: 
+Created-By: IntelliJ IDEA
+Build-Jdk: 10
+Specification-Version: 13.0.0-SNAPSHOT
+Implementation-URL: http://www.wildfly.org/quickstart/helloworld-rs
+
